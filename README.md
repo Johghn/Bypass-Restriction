@@ -10,5 +10,7 @@ with all that
     Not technically a "proxy" but it is unblocked and has no ads
 3. ULTRAVIOLET: https://ultravioletsw.dev/
     Can be a bit spotty but when it works it runs fast, only works with a handfull of websites (discord, youtube, ect)
+4. EAGLERCRAFT: "https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/Offline_Download_Version.html"
+    Eaglercraft is minecraft 1.5.2 that runs in your browser, it also has server support.
 
 TO BE EXTENDED 
